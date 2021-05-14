@@ -20,11 +20,6 @@ Minimal React CRA project to start developing using [Tailwind CSS](https://tailw
 
 This project is responsive design and example screenshots are above.
 
-![Desktop](https://user-images.githubusercontent.com/32040940/118324786-2aaa3e80-b50b-11eb-8188-dd454e7afeaa.png)
-![Mobile](https://user-images.githubusercontent.com/32040940/118324796-2d0c9880-b50b-11eb-8da0-18636b1b7e9f.png)
-
-
-
 ## Getting started
 
 - Clone the repository:
@@ -57,3 +52,8 @@ Add remote origin github repo link
 #### ```git remote add origin https://github.com/erdemgonul/react-tailwind-starter.git```
 Push your project into github repository
 #### ```git push -u origin master```
+
+## Screenshots
+
+![reacttailwindstarter](https://user-images.githubusercontent.com/32040940/118325059-8ecd0280-b50b-11eb-944b-8e11f188a459.PNG)
+![reacttailwindmobile](https://user-images.githubusercontent.com/32040940/118325066-91c7f300-b50b-11eb-82b4-2b3ce255a077.PNG)
